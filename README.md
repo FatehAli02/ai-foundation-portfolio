@@ -25,7 +25,7 @@ This repository documents my learning journey in Machine Learning, Deep Learning
 
 ## Progress Tracking
 
-Detailed module progress, dates, GitHub evidence, and supervisor reviews are maintained in the [Progress Tracker](./PROGRESS.md).
+Detailed module progress, dates, GitHub evidence, and supervisor reviews are maintained in the [Progress Tracker](./Progress_Tracker.md).
 
 ## Repository Organization
 
