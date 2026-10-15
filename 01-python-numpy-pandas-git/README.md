@@ -16,11 +16,23 @@ This module covers the foundational Python programming, numerical computing, dat
 
 ### 1. Python
 
-_To be updated when Python revision tasks are added._
+**Notebook: [`python_codes.ipynb`](notebooks/python_codes.ipynb)**
+
+**Topics Covered:**
+
+- Python Syntax: Variables, data types, operators, conditional statements, loops, and user input.
+
+- Data Structures: Lists and dictionaries for storing and managing data.
+
+- Functions: Function definitions, parameters, return values, and method calls.
+
+- OOP Basics: Classes, objects, constructors (**init**), instance attributes, and methods.
+
+- Additional Concepts: Modules, importing libraries, random number generation, and basic CRUD operations.
+
+**Note:** These programs were originally developed during earlier Python learning and reused as evidence of existing foundational knowledge.
 
 ### 2. NumPy
-
-- Note: These numpy topics are already covered, notebooks prepared during learning are attached here.
 
 **Notebook: [`numpy_1.ipynb`](notebooks/numpy_1.ipynb) — NumPy Fundamentals**
 
@@ -53,6 +65,8 @@ _To be updated when Python revision tasks are added._
 - Array filtering and manipulation
 - NumPy set operations
 - Clipping values
+
+**Note:** These numpy topics are already covered, notebooks prepared during learning are attached here.
 
 ### 3. Pandas
 
