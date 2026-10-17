@@ -70,7 +70,17 @@ This module covers the foundational Python programming, numerical computing, dat
 
 ### 3. Pandas
 
-_To be updated as Pandas notebooks are completed._
+**Notebook: [`pandas_1.ipynb`](notebooks/pandas_1.ipynb) — Pandas Fundamentals**
+
+- Series creation with custom indexes
+- DataFrame creation from dictionaries
+- DataFrame attributes and inspection methods: shape, size, dtypes, head, tail, info, describe, sample
+- Selecting single and multiple columns
+- Label-based and position-based indexing with `loc` and `iloc`
+- Boolean filtering and combining multiple conditions
+- Filtering helpers: `isin()`, `between()`, `str.contains()`, and `query()`
+- Sorting with `sort_values()`, `nlargest()`, `nsmallest()`, and `reset_index()`
+- Loading and saving CSV and Excel files with `read_csv()`, `to_csv()`, `read_excel()`, and `to_excel()`
 
 ### 4. Git & GitHub
 
