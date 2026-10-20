@@ -82,6 +82,20 @@ This module covers the foundational Python programming, numerical computing, dat
 - Sorting with `sort_values()`, `nlargest()`, `nsmallest()`, and `reset_index()`
 - Loading and saving CSV and Excel files with `read_csv()`, `to_csv()`, `read_excel()`, and `to_excel()`
 
+**Notebook: [`pandas_2.ipynb`](notebooks/pandas_2.ipynb) — Data Cleaning and Transformation**
+
+- Detecting missing values with `isna()`, `notna()`, and missing-value percentages
+- Handling missing data with `dropna()`, `fillna()`, `ffill()`, and `bfill()`
+- Finding and removing duplicates with `duplicated()` and `drop_duplicates()`
+- Data type conversion with `astype()`, `pd.to_numeric()`, and `pd.to_datetime()`
+- Cleaning text data: stripping whitespace, fixing case, and checking values with `unique()` and `value_counts()`
+- Renaming columns and dropping rows or columns
+- Creating new columns with vectorized arithmetic, `assign()`, and `insert()`
+- Conditional columns with `np.where()` and `np.select()`
+- Binning numeric data with `pd.cut()`
+- Transforming values with `map()`, `replace()`, and `apply()` (including row-wise `axis=1`)
+- String operations with the `.str` accessor: splitting, replacing, and regex extraction
+
 ### 4. Git & GitHub
 
 - Repository creation and cloning
