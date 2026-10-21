@@ -96,6 +96,23 @@ This module covers the foundational Python programming, numerical computing, dat
 - Transforming values with `map()`, `replace()`, and `apply()` (including row-wise `axis=1`)
 - String operations with the `.str` accessor: splitting, replacing, and regex extraction
 
+**Notebook: [`pandas_3.ipynb`](notebooks/pandas_3.ipynb) — Aggregation, Combining Data, and Time Series**
+
+- Split-apply-combine with `groupby()` on single and multiple columns
+- Aggregations: `mean()`, `sum()`, `min()`, `max()`, `count()`, and `size()`
+- Multiple and named aggregations with `agg()`
+- Group-level operations with `transform()` and `filter()`
+- Frequency analysis with `value_counts()`, including proportions and percentages
+- Cross-tabulation with `pd.crosstab()`
+- Pivot tables with `pivot_table()` and reshaping with `unstack()`
+- Combining tables with `merge()`: inner, left, right, and outer joins
+- Merging on different key names, handling suffixes, and debugging with `indicator`
+- Stacking and aligning data with `concat()` and `ignore_index`
+- Converting and parsing dates with `pd.to_datetime()`
+- Extracting date parts with the `.dt` accessor
+- Filtering by date, using a date index
+- Formatting dates with `strftime()`
+
 ### 4. Git & GitHub
 
 - Repository creation and cloning
