@@ -38,7 +38,15 @@ This module covers the basics of data visualization with Matplotlib and Seaborn,
 
 ### 2. Seaborn
 
-_Notebooks to be added._
+**Notebook: [`seaborn_1.ipynb`](notebooks/seaborn_1.ipynb) — Seaborn Fundamentals**
+
+- Figure-level vs. axis-level functions
+- Relational plots: `scatterplot()`, `lineplot()`, and `relplot()` with `hue`, `style`, and `size`
+- Facet plots using `col`, `row`, and `col_wrap`
+- Distribution plots: `histplot()`, `kdeplot()`, `rugplot()`, and `displot()`
+- Bivariate histograms and KDE plots
+- Matrix plots: `heatmap()` and `clustermap()`
+- Datasets used: Seaborn `tips` and `titanic`, Plotly `gapminder` and `iris`
 
 ## Environment and Dependencies
 
