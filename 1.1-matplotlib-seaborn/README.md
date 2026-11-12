@@ -25,9 +25,20 @@ This module covers the basics of data visualization with Matplotlib and Seaborn,
 - Pie charts with `autopct` and `explode`
 - Plot styles and saving figures with `savefig()`
 
+**Notebook: [`matplotlib_2.ipynb`](notebooks/matplotlib_2.ipynb) — Advanced Matplotlib**
+
+- Colored scatter plots with `cmap`, `alpha`, and `colorbar()`
+- Figure size with `figsize`
+- Annotations with `text()` and reference lines with `axhline()` and `axvline()`
+- Subplots with `plt.subplots()`: multiple rows and columns, shared axes
+- 3D scatter, line, and surface plots
+- Contour plots with `contour()` and `contourf()`
+- Heatmaps with `imshow()` on pivot tables
+- Plotting directly from Pandas with `plot()`: scatter, bar, stacked bar, line, and pie
+
 ### 2. Seaborn
 
-*Notebooks to be added.*
+_Notebooks to be added._
 
 ## Environment and Dependencies
 
