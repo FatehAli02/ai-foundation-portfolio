@@ -48,6 +48,16 @@ This module covers the basics of data visualization with Matplotlib and Seaborn,
 - Matrix plots: `heatmap()` and `clustermap()`
 - Datasets used: Seaborn `tips` and `titanic`, Plotly `gapminder` and `iris`
 
+**Notebook: [`seaborn_2.ipynb`](notebooks/seaborn_2.ipynb) — Categorical, Regression, and Multi-Grid Plots**
+
+- Categorical scatter plots: `stripplot()` (with jitter), `swarmplot()`, and `catplot()`
+- Categorical distribution plots: `boxplot()` and `violinplot()` (including `split`)
+- Categorical estimate plots: `barplot()` with custom estimators, `pointplot()`, and `countplot()`
+- Regression plots: `regplot()`, `lmplot()`, and `residplot()`
+- Multi-grid plots: `FacetGrid`, `pairplot()`, `PairGrid`, `jointplot()`, and `JointGrid`
+- Utility functions: `get_dataset_names()` and `load_dataset()`
+- Datasets used: Seaborn `tips` and `iris`
+
 ## Environment and Dependencies
 
 Notebooks are developed using Python and Jupyter Notebook in an Anaconda environment. Dependencies are maintained in the repository's root `requirements.txt`.
@@ -55,5 +65,5 @@ Notebooks are developed using Python and Jupyter Notebook in an Anaconda environ
 ## Completion Details
 
 - **Start Date:** November 11, 2026
-- **Completion Date:** -
-- **Status:** In Progress
+- **Completion Date:** November 17, 2026
+- **Status:** Completed
