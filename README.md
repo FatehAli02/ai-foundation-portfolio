@@ -14,11 +14,11 @@ This repository documents my learning journey in Machine Learning, Deep Learning
 
 Module status, dates, GitHub evidence, and supervisor reviews are tracked below.
 
-| #   | Module                                                | Status      | Start      | Finish     | Repository Link                            | Evidence Reviewed |
+| #   | Module                                                | Status      | Start      | Finish     | Module Link                                | Evidence Reviewed |
 | --- | ----------------------------------------------------- | ----------- | ---------- | ---------- | ------------------------------------------ | ----------------- |
 | 01  | Python, NumPy, Pandas & Git                           | Completed   | 2026-10-13 | 2026-10-21 | [View Work](./01-python-numpy-pandas-git/) | -                 |
 | 1.1 | Matplotlib, Seaborn                                   | Completed   | 2026-11-11 | 2026-11-17 | [View Work](./1.1-matplotlib-seaborn/)     | -                 |
-| 02  | EDA, Preprocessing & Feature Engineering              | Not Started | -          | -          | -                                          | -                 |
+| 02  | EDA, Data Cleaning & Feature Engineering              | In Progress | 2026-11-17 | -          | -                                          | -                 |
 | 03  | Machine Learning Specialization — Course 1            | Not Started | -          | -          | -                                          | -                 |
 | 04  | Machine Learning Specialization — Course 2            | Not Started | -          | -          | -                                          | -                 |
 | 05  | Machine Learning Specialization — Course 3 (Optional) | Not Started | -          | -          | -                                          | -                 |
