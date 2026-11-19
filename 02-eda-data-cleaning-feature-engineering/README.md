@@ -15,7 +15,17 @@ This module covers how to explore, clean, and prepare data for Machine Learning,
 
 ### 1. Exploratory Data Analysis (EDA)
 
-_Notebooks to be added in [`eda/`](eda/)._
+**Notebook: [`eda.ipynb`](eda/eda.ipynb) — Exploratory Data Analysis**
+
+- Why EDA is done, and why it is iterative
+- Column types: numerical, categorical, and mixed
+- Univariate analysis of numerical columns (`describe()`, histogram, KDE, skewness, box plot, outliers, missing values)
+- Univariate analysis of categorical columns (`value_counts()`, bar and pie charts)
+- Bivariate analysis: choosing plots for numerical vs. categorical column combinations
+- Contingency tables with `pd.crosstab()` and heatmaps
+- Comparing distributions across groups using KDE plots
+- Feature engineering from EDA findings: individual fare, family size, family type, surname, title, and deck
+- Dataset used: Titanic (`train.csv` and `test.csv`)
 
 ### 2. Data Cleaning
 
