@@ -19,7 +19,18 @@ _Notebooks to be added in [`eda/`](eda/)._
 
 ### 2. Data Cleaning
 
-_Notebooks to be added in [`data-cleaning/`](data-cleaning/)._
+**Notebook: [`data-cleaning.ipynb`](data-cleaning/data-cleaning.ipynb) — Assessing and Cleaning Data**
+
+- Dirty data vs. messy (untidy) data
+- Manual and programmatic assessment (discover, then document)
+- Assessment with `info()`, `describe()`, `duplicated()`, and `sample()`
+- Data quality dimensions: completeness, validity, accuracy, and consistency
+- Cleaning workflow: define, code, test, working on copies of the data
+- Handling missing values with `fillna()`
+- Separating phone and email using regex
+- Combining tables with `concat()` and `merge()`
+- Reshaping with `melt()` and splitting columns with `.str.split()`
+- Dataset used: clinical trials data (patients, treatments, and adverse reactions)
 
 ### 3. Feature Engineering
 
