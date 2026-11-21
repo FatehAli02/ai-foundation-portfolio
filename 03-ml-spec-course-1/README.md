@@ -40,6 +40,12 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Plotting the cost against iterations to check convergence
 - Plotting the fitted line over the data
 
+**Notebook: [`1.4-learning-rate-experiments.ipynb`](01-regression-gradient-descent/1.4-learning-rate-experiments.ipynb) — Learning Rate Experiments**
+
+- Training the same model with different learning rates (0.001, 0.01, and 0.1)
+- Comparing the final weight, bias, and cost for each learning rate
+- Plotting the cost curves together to see how the learning rate affects convergence
+
 ### 2. Multiple Regression and Gradient Descent [`↗`](02-multiple-regression-gradient-descent/)
 
 _Notebooks to be added._
