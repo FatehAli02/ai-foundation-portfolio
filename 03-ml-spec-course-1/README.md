@@ -27,6 +27,19 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Plotting the regression line over the data
 - Predicting the output for a new input value
 
+**Notebook: [`1.2-cost-function.ipynb`](01-regression-gradient-descent/1.2-cost-function.ipynb) — Cost Function**
+
+- Implementing the squared error cost function `J(w, b)` from scratch with NumPy
+- Comparing the cost for different values of `w` and `b`
+- Plotting cost against the weight to see how the cost changes
+
+**Notebook: [`1.3-gradient_descent.ipynb`](01-regression-gradient-descent/1.3-gradient_descent.ipynb) — Gradient Descent**
+
+- Implementing the gradient calculation (`dj_dw`, `dj_db`) from scratch with NumPy
+- Updating `w` and `b` in a loop using a learning rate
+- Plotting the cost against iterations to check convergence
+- Plotting the fitted line over the data
+
 ### 2. Multiple Regression and Gradient Descent [`↗`](02-multiple-regression-gradient-descent/)
 
 _Notebooks to be added._
