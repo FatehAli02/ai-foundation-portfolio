@@ -63,6 +63,14 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Implementing three scaling techniques from scratch with NumPy: mean normalization, Z-score normalization, and min-max scaling
 - Comparing the scaled data and plotting each technique side by side
 
+**Notebook: [`2.3-feature-eng-polynomial-reg.ipynb`](02-multiple-regression-gradient-descent/2.3-feature-eng-polynomial-reg.ipynb) — Feature Engineering & Polynomial Regression**
+
+- Engineering new features from an existing one (`X`, `X²`, `X³`)
+- Scaling the engineered features with Z-score normalization
+- Reusing the vectorized cost and gradient descent functions
+- Plotting cost against iterations to check convergence
+- Plotting the fitted polynomial curve over the data
+
 ### 3. Classification [`↗`](03-classification/)
 
 _Notebooks to be added._
