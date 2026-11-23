@@ -48,7 +48,14 @@ This module covers the first course of the Machine Learning Specialization: supe
 
 ### 2. Multiple Regression and Gradient Descent [`↗`](02-multiple-regression-gradient-descent/)
 
-_Notebooks to be added._
+**Notebook: [`2.1-multiple-linear-regression.ipynb`](02-multiple-regression-gradient-descent/2.1-multiple-linear-regression.ipynb) — Multiple Linear Regression from Scratch**
+
+- Working with multiple features: feature matrix `X`, number of examples `m`, and number of features `n`
+- Prediction with and without vectorization using `np.dot()`
+- Cost function for multiple features
+- Vectorized gradient calculation and gradient descent
+- Plotting cost against iterations to check convergence
+- Comparing actual and predicted values, including a 3D scatter plot
 
 ### 3. Classification [`↗`](03-classification/)
 
