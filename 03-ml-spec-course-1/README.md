@@ -57,6 +57,12 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Plotting cost against iterations to check convergence
 - Comparing actual and predicted values, including a 3D scatter plot
 
+**Notebook: [`2.2-feature-scaling.ipynb`](02-multiple-regression-gradient-descent/2.2-feature-scaling.ipynb) — Feature Scaling**
+
+- Checking feature ranges with the minimum, maximum, mean, and standard deviation
+- Implementing three scaling techniques from scratch with NumPy: mean normalization, Z-score normalization, and min-max scaling
+- Comparing the scaled data and plotting each technique side by side
+
 ### 3. Classification [`↗`](03-classification/)
 
 _Notebooks to be added._
