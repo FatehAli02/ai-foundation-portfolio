@@ -90,6 +90,15 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Training a `LogisticRegression` model and predicting classes and probabilities
 - Evaluating with `accuracy`, a `confusion matrix` heatmap, and a `classification report`
 
+**Notebook: [`3.3-overfitting-and-regularization.ipynb`](03-classification/3.3-overfitting-and-regularization.ipynb) — Overfitting and Regularization**
+
+- Generating a non-linear dataset with `make_moons()`
+- Training a simple logistic regression model as a baseline
+- Creating a complex model using degree-10 polynomial features with `PolynomialFeatures`
+- Building pipelines with `make_pipeline`
+- Applying regularization by reducing `C` in `LogisticRegression`
+- Comparing training and test accuracy of the three models to identify overfitting
+
 ## Environment and Dependencies
 
 Notebooks are developed using Python and Jupyter Notebook in an Anaconda environment. Dependencies are maintained in the repository's root `requirements.txt`.
