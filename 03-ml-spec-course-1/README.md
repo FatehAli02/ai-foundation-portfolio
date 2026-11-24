@@ -83,6 +83,13 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Converting probabilities to classes with a 0.5 threshold and calculating training accuracy
 - Plotting the decision boundary over the data
 
+**Notebook: [`3.2-logistic-regression-sklearn.ipynb`](03-classification/3.2-logistic-regression-sklearn.ipynb) — Logistic Regression using scikit-learn**
+
+- Splitting data into training and test sets with `train_test_split` (stratified)
+- Scaling features with `StandardScaler`, fitting on the training data only
+- Training a `LogisticRegression` model and predicting classes and probabilities
+- Evaluating with `accuracy`, a `confusion matrix` heatmap, and a `classification report`
+
 ## Environment and Dependencies
 
 Notebooks are developed using Python and Jupyter Notebook in an Anaconda environment. Dependencies are maintained in the repository's root `requirements.txt`.
