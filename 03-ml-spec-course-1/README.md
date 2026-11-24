@@ -60,7 +60,7 @@ This module covers the first course of the Machine Learning Specialization: supe
 **Notebook: [`2.2-feature-scaling.ipynb`](02-multiple-regression-gradient-descent/2.2-feature-scaling.ipynb) — Feature Scaling**
 
 - Checking feature ranges with the minimum, maximum, mean, and standard deviation
-- Implementing three scaling techniques from scratch with NumPy: mean normalization, Z-score normalization, and min-max scaling
+- Implementing three scaling techniques from scratch with NumPy: `mean normalization`, `Z-score normalization`, and `min-max scaling`
 - Comparing the scaled data and plotting each technique side by side
 
 **Notebook: [`2.3-feature-eng-polynomial-reg.ipynb`](02-multiple-regression-gradient-descent/2.3-feature-eng-polynomial-reg.ipynb) — Feature Engineering & Polynomial Regression**
@@ -73,7 +73,15 @@ This module covers the first course of the Machine Learning Specialization: supe
 
 ### 3. Classification [`↗`](03-classification/)
 
-_Notebooks to be added._
+**Notebook: [`3.1-logistic-regression-scratch.ipynb`](03-classification/3.1-logistic-regression-scratch.ipynb) — Logistic Regression from Scratch**
+
+- Loading the breast cancer dataset from scikit-learn and inspecting the classes
+- Selecting two features and scaling them with `StandardScaler`
+- Implementing the `sigmoid function` and prediction with NumPy
+- Implementing `binary cross-entropy (logistic loss)` as the cost function
+- Training with gradient descent and plotting cost against iterations
+- Converting probabilities to classes with a 0.5 threshold and calculating training accuracy
+- Plotting the decision boundary over the data
 
 ## Environment and Dependencies
 
