@@ -99,6 +99,19 @@ This module covers the first course of the Machine Learning Specialization: supe
 - Applying regularization by reducing `C` in `LogisticRegression`
 - Comparing training and test accuracy of the three models to identify overfitting
 
+## Handwritten Notes
+
+**Notes: [`handwritten-notes-course-1.pdf`](handwritten-notes-course-1.pdf) — Supervised Machine Learning: Regression and Classification**
+
+- Supervised vs. unsupervised learning, regression vs. classification
+- Linear regression, the squared error cost function, and gradient descent (learning rate, simultaneous updates, batch gradient descent)
+- Multiple linear regression, vectorization, and gradient descent for multiple features
+- Feature scaling (dividing by max, mean normalization, Z-score), the convergence test, and choosing a learning rate
+- Polynomial regression
+- Classification, logistic regression, the sigmoid function, and the decision boundary
+- Logistic loss and cost function, and gradient descent for logistic regression
+- Overfitting, underfitting, and regularization for linear and logistic regression
+
 ## Environment and Dependencies
 
 Notebooks are developed using Python and Jupyter Notebook in an Anaconda environment. Dependencies are maintained in the repository's root `requirements.txt`.
@@ -106,5 +119,5 @@ Notebooks are developed using Python and Jupyter Notebook in an Anaconda environ
 ## Completion Details
 
 - **Start Date:** November 21, 2026
-- **Completion Date:** -
-- **Status:** In Progress
+- **Completion Date:** November 25, 2026
+- **Status:** Completed
