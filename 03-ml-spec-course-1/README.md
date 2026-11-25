@@ -101,7 +101,7 @@ This module covers the first course of the Machine Learning Specialization: supe
 
 ## Handwritten Notes
 
-**Notes: [`handwritten-notes-course-1.pdf`](handwritten-notes-course-1.pdf) — Supervised Machine Learning: Regression and Classification**
+**Notes: [`handwritten-notes-course-1.pdf`](handwritten-notes-course-1.pdf?raw=true) — Supervised Machine Learning: Regression and Classification**
 
 - Supervised vs. unsupervised learning, regression vs. classification
 - Linear regression, the squared error cost function, and gradient descent (learning rate, simultaneous updates, batch gradient descent)
